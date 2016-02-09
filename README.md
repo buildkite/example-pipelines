@@ -1,4 +1,4 @@
-# Buildkite Sample Pipelines
+# Example Buildkite Pipelines
 
 A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline:
 
