@@ -1,6 +1,6 @@
 # Example Buildkite Pipelines
 
-A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline:
+A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline.
 
 * [Bash](https://github.com/buildkite/bash-example) - A simple bash example
 * [Node.js](https://github.com/buildkite/nodejs-example) - An example of testing a Node.js project
