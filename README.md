@@ -3,6 +3,7 @@
 A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline:
 
 * [Bash](https://github.com/buildkite/bash-example) - A simple bash example
+* [Node.js - Docker](https://github.com/buildkite/nodejs-docker-example) - An example of testing a Node.js project w/ Docker
 * [Golang](https://github.com/buildkite/golang-example) - An example of testing a Golang project
 * [Golang - Docker](https://github.com/buildkite/golang-docker-example) - An example of testing a Golang project w/ Docker
 * [Xcode - Fastlane](https://github.com/buildkite/buildkite-fastlane-demo) - An example of building and testing a Fastlane project
