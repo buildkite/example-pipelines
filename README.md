@@ -18,6 +18,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 
 * [Artifact Uploading and Downloading](https://github.com/buildkite/artifacts-example) - Uploading and downloading artifacts between build pipeline steps
 * [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline with the Builds API
+* [Dynamic Pipelines](https://github.com/buildkite/dynamic-pipeline-example) - Generating a pipeline’s steps programatically at run-time
 
 ## Third-party tools
 
