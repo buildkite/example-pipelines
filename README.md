@@ -1,5 +1,13 @@
 # Example Buildkite Pipelines
 
+A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline.
+
+## Step Types and Techniques
+
+* [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline with the Builds API
+
+## Languages and Frameworks
+
 A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline:
 
 * [Bash](https://github.com/buildkite/bash-example) - A simple bash example
