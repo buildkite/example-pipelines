@@ -2,11 +2,6 @@
 
 A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline.
 
-## Step Types and Techniques
-
-* [Artifact Uploading and Downloading](https://github.com/buildkite/artifacts-example) - Uploading and downloading artifacts between build pipeline steps
-* [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline with the Builds API
-
 ## Languages and Frameworks
 
 A list of example repositories for setting up a [Buildkite](https://buildkite.com/) pipeline:
@@ -20,6 +15,11 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 * [Golang](https://github.com/buildkite/golang-example) - An example of testing a Golang project
 * [Golang - Docker](https://github.com/buildkite/golang-docker-example) - An example of testing a Golang project w/ Docker
 * [Xcode - Fastlane](https://github.com/buildkite/buildkite-fastlane-demo) - An example of building and testing a Fastlane project
+
+## Step Types and Techniques
+
+* [Artifact Uploading and Downloading](https://github.com/buildkite/artifacts-example) - Uploading and downloading artifacts between build pipeline steps
+* [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline with the Builds API
 
 ## Third-party tools
 
