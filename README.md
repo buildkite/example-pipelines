@@ -20,7 +20,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 ## Step Types and Techniques
 
 * [Artifact Uploading and Downloading](https://github.com/buildkite/artifacts-example) - Uploading and downloading artifacts between build pipeline steps
-* [Unblock Prompts](https://github.com/buildkite/unblock-prompt-example) - An example of how to include custom unblock prompts in your pipeline
+* [Block steps](https://github.com/buildkite/block-step-example) - An example of how to include block steps with form fields in your pipeline
 * [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline with the Builds API
 * [Dynamic Pipelines](https://github.com/buildkite/dynamic-pipeline-example) - Generating a pipeline’s steps programatically at run-time
 * [Static Site Deployment](https://github.com/buildkite/static-site-deployment-example) - Deploying a static site via rsync with dynamic branch to subdomain mappings
