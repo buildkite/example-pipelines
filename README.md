@@ -10,6 +10,8 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 * [Ruby - Docker](https://github.com/buildkite/ruby-docker-example) - An example of testing a Ruby project w/ Docker
 * [Rails - Parallel](https://github.com/buildkite/rails-parallel-example) - An example of testing a Rails project in parallel w/ Knapsack
 * [Rails - Parallel w/ Docker](https://github.com/buildkite/rails-docker-parallel-example) - An example of testing a Rails project in parallel w/ Knapsack & Docker
+* [Rails - Dynamic Parallel](https://github.com/KnapsackPro/buildkite-rails-parallel-example-with-knapsack_pro) - An example of testing a Rails project in parallel w/ Knapsack Pro
+* [Rails - Dynamic Parallel w/ Docker](https://github.com/KnapsackPro/buildkite-rails-docker-parallel-example-with-knapsack_pro) - An example of testing a Rails project in parallel w/ Knapsack Pro & Docker
 * [Phoenix - Docker](https://github.com/lukerollans/phoenix-docker-example) - An example of testing a Phoenix app w/ Docker
 * [Node.js](https://github.com/buildkite/nodejs-example) - An example of testing a Node.js project
 * [Node.js - Docker](https://github.com/buildkite/nodejs-docker-example) - An example of testing a Node.js project w/ Docker
