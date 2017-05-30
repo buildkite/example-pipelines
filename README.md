@@ -19,6 +19,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 
 ## Step Types and Techniques
 
+* [RSpec & JUnit Build Annotations](https://github.com/buildkite/rspec-junit-example) - Annotation a build with JUnit test failure information
 * [Artifact Uploading and Downloading](https://github.com/buildkite/artifacts-example) - Uploading and downloading artifacts between build pipeline steps
 * [Block steps](https://github.com/buildkite/block-step-example) - An example of how to include block steps with form fields in your pipeline
 * [Dependent Pipelines](https://github.com/buildkite/dependent-pipeline-example) - Triggering another pipeline from a pipeline
