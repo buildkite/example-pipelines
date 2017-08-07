@@ -1,0 +1,12 @@
+steps:
+  - trigger: $BUILDKITE_ORGANIZATION_SLUG/monorepo-a
+    build:
+      branch: $BUILDKITE_BRANCH
+      commit: $BUILDKITE_COMMIT
+      message: $BUILDKITE_MESSAGE
+  - trigger: $BUILDKITE_ORGANIZATION_SLUG/monorepo-b
+    build:
+      branch: $BUILDKITE_BRANCH
+      commit: $BUILDKITE_COMMIT
+      message: $BUILDKITE_MESSAGE
+

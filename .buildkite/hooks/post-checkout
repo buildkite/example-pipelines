@@ -1,0 +1,12 @@
+#!/bin/bash
+
+case "$BUILDKITE_PIPELINE_SLUG" in
+monorepo-a)
+  export BUILDKITE_CHECKOUT_PATH="$BUILDKITE_CHECKOUT_PATH/a"
+  ;;
+monorepo-b)
+  export BUILDKITE_CHECKOUT_PATH="$BUILDKITE_CHECKOUT_PATH/b"
+  ;;
+*)
+  # Leave the path alone and run the main pipeline
+esac
