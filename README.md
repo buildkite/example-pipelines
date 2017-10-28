@@ -6,6 +6,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 
 * [Bash](https://github.com/buildkite/bash-example) - A simple bash example with artifacts, inline images and shell output
 * [Python - pipenv](https://github.com/buildkite/python-pipenv-example) - An example of testing a Python project w/ pipenv
+* [Python - Docker](https://github.com/buildkite/python-docker-example) - An example of testing a Python project w/ Docker and pipenv
 * [Bash - Parallel](https://github.com/buildkite/bash-parallel-example) - Another simple bash example that runs across multiple agents in parallel
 * [Ruby - rbenv](https://github.com/buildkite/ruby-rbenv-example) - An example of testing a Ruby project w/ rbenv
 * [Ruby - Docker](https://github.com/buildkite/ruby-docker-example) - An example of testing a Ruby project w/ Docker
