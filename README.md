@@ -31,7 +31,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 
 * [Jobsworth](https://github.com/saymedia/jobsworth) uses dynamic pipelines for defining high level build and deploy processes
 
-## `.buildkite/template.yml` files
+## template.yml files
 
 All of the examples contain a `buildkite/template.yml` file so that you can easily add the project to your Buildkite account using the 'Add to Buildkite' button in the readme. You don't need this file in your own projects.
 
