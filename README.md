@@ -5,6 +5,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 ## Languages and Frameworks
 
 * [Bash](https://github.com/buildkite/bash-example) - A simple bash example with artifacts, inline images and shell output
+* [Bazel](https://github.com/buildkite/bazel-example) - Building with Bazel on Buildkite
 * [Python - pipenv](https://github.com/buildkite/python-pipenv-example) - An example of testing a Python project w/ pipenv
 * [Python - Docker](https://github.com/buildkite/python-docker-example) - An example of testing a Python project w/ Docker and pipenv
 * [Bash - Parallel](https://github.com/buildkite/bash-parallel-example) - Another simple bash example that runs across multiple agents in parallel
