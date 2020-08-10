@@ -18,6 +18,7 @@ A list of example repositories for setting up a [Buildkite](https://buildkite.co
 * [Golang](https://github.com/buildkite/golang-example) - An example of testing a Golang project
 * [Golang - Docker](https://github.com/buildkite/golang-docker-example) - An example of testing a Golang project w/ Docker
 * [Xcode - Fastlane](https://github.com/buildkite/buildkite-fastlane-demo) - An example of building and testing a Fastlane project
+* [Gradle - Docker](https://github.com/buildkite/gradle-docker-example) - An example of building a Gradle project
 
 ## Step Types and Techniques
 
